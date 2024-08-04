@@ -1,8 +1,9 @@
-# Marketing Campaign Analysis Project
+# Marketing Campaign Analysis Project - Artha Data
+Final Project - Data Science by Rakamin Batch 45 Kelompok 1
 
 ## Project Overview
 
-This project aims to analyze a marketing campaign dataset to gain insights into customer behavior, preferences, and responses to various marketing strategies. By leveraging data science techniques, we can provide actionable recommendations to improve future marketing efforts and enhance customer engagement.
+This project aims to analyze a marketing campaign dataset to gain insights into customer behavior, preferences, and responses to various marketing strategies. By leveraging data science techniques, we can provide actionable recommendations to improve future marketing efforts and enhance customer engagement. A key component of this project is to predict whether a user will respond to the next campaign. To achieve this, we will employ classification algorithms to model user responses based on historical data. The classification models will help identify patterns and factors influencing user engagement, enabling targeted and effective marketing strategies.
 
 ## Dataset
 
@@ -92,10 +93,6 @@ The dataset, sourced from Kaggle, contains information on customer demographics,
 - The notebook will provide visualizations and metrics summarizing the key findings.
 - Predictive models will be evaluated and compared to identify the best performing model.
 - Insights and recommendations will be presented at the end of the notebook.
-
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or suggestions.
 
 ## License
 
