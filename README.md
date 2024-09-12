@@ -45,29 +45,31 @@ The dataset, sourced from Kaggle, contains information on customer demographics,
 - **AcceptedCmp4**: 1 if the customer accepted the offer in the 4th campaign, 0 otherwise.
 - **AcceptedCmp5**: 1 if the customer accepted the offer in the 5th campaign, 0 otherwise.
 - **Response**: 1 if the customer accepted the offer in the last campaign, 0 otherwise.
+- **Z_CostContact**: A Constant cost per contact for the marketing campaign.
+- **Z_Revenue**: A revenue generated from each contact.
 
 ## Project Objectives
 
-1. **Data Cleaning and Preprocessing**:
-   - Handle missing values and outliers.
-   - Convert categorical variables into numerical formats.
-   - Feature scaling and normalization.
-
-2. **Exploratory Data Analysis (EDA)**:
+1.**Exploratory Data Analysis (EDA)**:
    - Analyze customer demographics and purchasing behavior.
    - Identify patterns and trends in the data.
    - Visualize key metrics and insights.
 
-3. **Feature Engineering**:
+3. **Data Cleaning and Preprocessing**:
+   - Handle missing values and outliers.
+   - Convert categorical variables into numerical formats.
+   - Feature scaling and normalization.
+
+4. **Feature Engineering**:
    - Create new features to enhance model performance (e.g., Customer Lifetime Value, Social Media Engagement Score, Product Affinity Scores, Sentiment Analysis).
    - Select the most relevant features for modeling.
 
-4. **Modeling and Prediction**:
+5. **Modeling and Prediction**:
    - Build predictive models to forecast customer responses to marketing campaigns.
    - Evaluate model performance using appropriate metrics (e.g., accuracy, precision, recall).
    - Optimize models for better predictions.
 
-5. **Insights and Recommendations**:
+6. **Insights and Recommendations**:
    - Provide actionable insights based on the analysis.
    - Suggest strategies to improve customer engagement and campaign effectiveness.
 
