@@ -55,21 +55,21 @@ The dataset, sourced from Kaggle, contains information on customer demographics,
    - Identify patterns and trends in the data.
    - Visualize key metrics and insights.
 
-3. **Data Cleaning and Preprocessing**:
+2. **Data Cleaning and Preprocessing**:
    - Handle missing values and outliers.
    - Convert categorical variables into numerical formats.
    - Feature scaling and normalization.
 
-4. **Feature Engineering**:
+3. **Feature Engineering**:
    - Create new features to enhance model performance (e.g., Customer Lifetime Value, Social Media Engagement Score, Product Affinity Scores, Sentiment Analysis).
    - Select the most relevant features for modeling.
 
-5. **Modeling and Prediction**:
+4. **Modeling and Prediction**:
    - Build predictive models to forecast customer responses to marketing campaigns.
    - Evaluate model performance using appropriate metrics (e.g., accuracy, precision, recall).
    - Optimize models for better predictions.
 
-6. **Insights and Recommendations**:
+5. **Insights and Recommendations**:
    - Provide actionable insights based on the analysis.
    - Suggest strategies to improve customer engagement and campaign effectiveness.
 
