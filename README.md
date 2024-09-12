@@ -1,4 +1,4 @@
-# Marketing Campaign Analysis Project - Artha Data
+# Enhancing Marketing Campaign Efficiency with Predictive Analysis - Artha Data
 Final Project - Data Science by Rakamin Batch 45 Kelompok 1
 
 ## Project Overview
