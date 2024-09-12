@@ -54,7 +54,7 @@ The dataset, sourced from Kaggle, contains information on customer demographics,
    - Analyze customer demographics and purchasing behavior.
    - Identify patterns and trends in the data.
    - Visualize key metrics and insights.
-
+     
 2. **Data Cleaning and Preprocessing**:
    - Handle missing values and outliers.
    - Convert categorical variables into numerical formats.
