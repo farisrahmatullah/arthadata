@@ -50,7 +50,7 @@ The dataset, sourced from Kaggle, contains information on customer demographics,
 
 ## Project Objectives
 
-1.**Exploratory Data Analysis (EDA)**:
+1. **Exploratory Data Analysis (EDA)**:
    - Analyze customer demographics and purchasing behavior.
    - Identify patterns and trends in the data.
    - Visualize key metrics and insights.
