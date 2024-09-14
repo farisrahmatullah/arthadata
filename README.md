@@ -6,7 +6,9 @@ Final Project - Data Science by Rakamin Batch 45 Kelompok 1
 This project aims to analyze a marketing campaign dataset to gain insights into customer behavior, preferences, and responses to various marketing strategies. By leveraging data science techniques, we can provide actionable recommendations to improve future marketing efforts and enhance customer engagement. A key component of this project is to predict whether a user will respond to the next campaign. To achieve this, we will employ classification algorithms to model user responses based on historical data. The classification models will help identify patterns and factors influencing user engagement, enabling targeted and effective marketing strategies.
 
 [Presentation Deck](https://www.canva.com/design/DAGPzT7HOxg/VDS9PvXAomA9rX9XCObhHA/view?utm_content=DAGPzT7HOxg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 [Python Code](https://colab.research.google.com/drive/1yWnKtmnUMcwZH5qUr3AX2EQptPsRBNoX?authuser=1#scrollTo=p5f556-OmpR_)
+
 [Dataset](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/data)
 
 ## Authors
